@@ -9,18 +9,17 @@ Choose K centroids for K clusters
 
 **Allocate points to centroids**
 Allocate every point x<sub>j</sub> to a cluster as per the following formula
-<center>![](equation2.png)</center>
+![](equation2.png)
 
 **Re-compute centroids**
 Re-Compute centroids for all clusters as per the following formula
-<center>![](equation3.png)</center>
+![](equation3.png)
 
 ***The allocation and re-computation steps are repeated until the clusters stablize***
 
 
 **Clustering in action**
-<center>![](10ClassAnimation.gif)
+![](10ClassAnimation.gif)
 <i>10 clusters</i>
 ![](3ClassAnimation.gif)
 <i>3 clusters</i>
-</center>
