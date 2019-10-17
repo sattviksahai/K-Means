@@ -21,6 +21,6 @@ Re-Compute centroids for all clusters as per the following formula
 **Clustering in action**
 
 ![](10ClassAnimation.gif)
-<i>10 clusters</i>
+10 clusters
 ![](3ClassAnimation.gif)
-<i>3 clusters</i>
+3 clusters>
