@@ -5,7 +5,7 @@ A numpy implementation of K-Means Clustering using Lloyd's Algorithm
 Choose K centroids for K clusters
 1. Choose any random data point as the first centroid (C<sub>1</sub>)
 2. Choose subsequent centroids as per the following formula:
-![](equation1.png)
+<img align="center" src=equation1.png>
 
 **Allocate points to centroids**
 Allocate every point x<sub>j</sub> to a cluster as per the following formula
